@@ -2,7 +2,7 @@
 
 Entre no nosso grupo do [meetup aqui](https://www.meetup.com/pt-BR/FEMUGPE-Recife/).
 
-## Edições Realizadas
+## Edições Realizadas - 2017
 
 - [#08 | ThoughtWorks - 26/01/2017](edicoes/08.md)
 - [#09 | Liferay - 09/03/2017](edicoes/09.md)
