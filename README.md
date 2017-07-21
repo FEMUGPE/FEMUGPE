@@ -7,6 +7,7 @@ Entre no nosso grupo do [meetup aqui](https://www.meetup.com/pt-BR/FEMUGPE-Recif
 - [#08 | ThoughtWorks - 26/01/2017](edicoes/08.md)
 - [#09 | Liferay - 09/03/2017](edicoes/09.md)
 - [#10 | Jump Brasil - 30/06/2017](edicoes/10.md)
+- [#11 | CESAR - 28/07/2017](edicoes/11.md)
 
 ## O que é o FEMUG?
 
