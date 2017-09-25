@@ -8,6 +8,8 @@ Entre no nosso grupo do [meetup aqui](https://www.meetup.com/pt-BR/FEMUGPE-Recif
 - [#09 | Liferay - 09/03/2017](edicoes/09.md)
 - [#10 | Jump Brasil - 30/06/2017](edicoes/10.md)
 - [#11 | CESAR - 28/07/2017](edicoes/11.md)
+- [#12 | Avanade - 31/08/2017](edicoes/12.md)
+- [#13 | Liferay - 28/09/2017](edicoes/13.md)
 
 ## O que é o FEMUG?
 
