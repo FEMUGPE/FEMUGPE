@@ -10,7 +10,7 @@ Entre no nosso grupo do [meetup aqui](https://www.meetup.com/pt-BR/FEMUGPE-Recif
 - [#11 | CESAR - 28/07/2017](edicoes/11.md)
 - [#12 | Avanade - 31/08/2017](edicoes/12.md)
 - [#13 | Liferay - 28/09/2017](edicoes/13.md)
-- [#14 |  - ](edicoes/14.md)
+- [#14 | In loco Media - 31/10/2017](edicoes/14.md)
 
 ## O que é o FEMUG?
 
