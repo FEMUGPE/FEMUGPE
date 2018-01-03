@@ -11,15 +11,15 @@ Entre no nosso grupo do [meetup aqui](https://www.meetup.com/pt-BR/FEMUGPE-Recif
 
 ## Edições Realizadas - 2017
 
-- [#08 | ThoughtWorks - 26/01/2017](edicoes/08.md)
-- [#09 | Liferay - 09/03/2017](edicoes/09.md)
-- [#10 | Jump Brasil - 30/06/2017](edicoes/10.md)
-- [#11 | CESAR - 28/07/2017](edicoes/11.md)
-- [#12 | Avanade - 31/08/2017](edicoes/12.md)
-- [#13 | Liferay - 28/09/2017](edicoes/13.md)
-- [#14 | In loco Media - 31/10/2017](edicoes/14.md)
-- [#15 | Liferay Brasil - 30/11/2017 -- aguardando atualização]()
-- [#16 | In ThoughtWorks Recife - 15/12/2017](edicoes/16.md)
+- [#08 | ThoughtWorks - 26/01/2017](edicoes/2017/08.md)
+- [#09 | Liferay - 09/03/2017](edicoes/2017/09.md)
+- [#10 | Jump Brasil - 30/06/2017](edicoes/2017/10.md)
+- [#11 | CESAR - 28/07/2017](edicoes/2017/11.md)
+- [#12 | Avanade - 31/08/2017](edicoes/2017/12.md)
+- [#13 | Liferay - 28/09/2017](edicoes/2017/13.md)
+- [#14 | In loco Media - 31/10/2017](edicoes/2017/14.md)
+- [#15 | Liferay Brasil - 30/11/2017](edicoes/2017/15.md)
+- [#16 | In ThoughtWorks Recife - 15/12/2017](edicoes/2017/16.md)
 
 ## O que é o FEMUG?
 
