@@ -4,7 +4,7 @@ Entre no nosso grupo do [meetup aqui](https://www.meetup.com/pt-BR/FEMUGPE-Recif
 
 
 ## Edições Realizadas - 2018
-- [#17 | em breve...]()
+- [#17 | Mangue3 - 18/01/2018](edicoes/2018/17.md)
 
 
 --- 
