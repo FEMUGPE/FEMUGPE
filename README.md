@@ -1,13 +1,22 @@
 # FEMUG-PE
 
-Entre no nosso grupo do [meetup aqui](https://www.meetup.com/pt-BR/FEMUGPE-Recife/).
+## Participe dos nossos grupos:
+  - [Meetup - FEMUGPE - Front-end Meetup Group PE](https://www.meetup.com/pt-BR/FEMUGPE-Recife/).
+  - [Telegram]( https://t.me/joinchat/Cls3sUInW78XwgOlUZWjSQ).
+  - [Facebook Page](https://www.facebook.com/femugpe/)
+
+
+## Submete uma palestra pra gente:
+  - [Clique aqui e compartilha um pouco do que você sabe com a nossa incrível comunidade](https://femugpe.typeform.com/to/Sv6HAs)
 
 
 ## Edições Realizadas - 2018
 - [#17 | Mangue3 - 18/01/2018](edicoes/2018/17.md)
+- [#18 | Liferay - 22/02/2018](edicoes/2018/18.md)
 
 
 --- 
+
 
 ## Edições Realizadas - 2017
 
@@ -21,6 +30,7 @@ Entre no nosso grupo do [meetup aqui](https://www.meetup.com/pt-BR/FEMUGPE-Recif
 - [#15 | Liferay Brasil - 30/11/2017](edicoes/2017/15.md)
 - [#16 | In ThoughtWorks Recife - 15/12/2017](edicoes/2017/16.md)
 
+
 ## O que é o FEMUG?
 
 O "Front-End Meet-Up Group" é um projeto que nasceu da necessidade de unir os desenvolvedores Front-End, e então tornou-se uma ideia coletiva, para que o acesso à informação seja feito em qualquer lugar que haja interesse do aprendizado.
@@ -31,9 +41,11 @@ Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir c
 
 Para maiores informações da uma olhadinha em [Guidelines for "Front-End Meet-Up Group" project](https://github.com/femug/femug).
 
+
 ## Código de Conduta
 
 É importante destacar que o FEMUG conta com um [Código de Conduta](CODIGO-DE-CONDUTA.md). O mesmo DEVE ser levado a sério por membros, moderadores e adminitradores dos encontros, levando em consideração sempre o bem estar e ambiente inclusivo e diverso que visamos ter.
+
 
 ## Sobre Contrubuir
 
