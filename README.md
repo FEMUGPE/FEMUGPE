@@ -15,6 +15,7 @@
 * [#17 | Mangue3 - 18/01/2018](edicoes/2018/17.md)
 * [#18 | Liferay - 22/02/2018](edicoes/2018/18.md)
 * [#19 | iBoltt - 29/03/2018](edicoes/2018/19.md)
+* [#20 | Liferay - 12/07/2018](edicoes/2018/20.md)
 
 ---
 
