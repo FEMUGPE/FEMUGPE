@@ -12,7 +12,7 @@
 
 ## Edições Realizadas - 2019
 
-* [#21 | Softex - 15/08/2019](edicoes/2019/15.md)
+* [#23 | Softex - 15/08/2019](edicoes/2019/15.md)
 
 ---
 
