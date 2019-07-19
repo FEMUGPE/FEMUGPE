@@ -10,6 +10,12 @@
 
 * [Clique aqui e compartilha um pouco do que você sabe com a nossa incrível comunidade](https://femugpe.typeform.com/to/Sv6HAs)
 
+## Edições Realizadas - 2019
+
+* [#21 | Softex - 15/08/2019](edicoes/2019/15.md)
+
+---
+
 ## Edições Realizadas - 2018
 
 * [#17 | Mangue3 - 18/01/2018](edicoes/2018/17.md)
