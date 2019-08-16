@@ -12,6 +12,7 @@
 
 ## Edições Realizadas - 2019
 
+* [#24 | Grau Técnico - 15/09/2019](edicoes/2019/16.md)
 * [#23 | Softex - 15/08/2019](edicoes/2019/15.md)
 
 ---
